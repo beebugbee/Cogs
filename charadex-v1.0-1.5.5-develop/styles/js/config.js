@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
-  description: `A tool for organizing small ARPGs and species.`
+  title: "Cognivores",
+  url: "https://cognivores.netlify.app",
+  description: `Cognivores closed species master list, created by beebeebee on Toyhouse.`
 }
 
 /* ==================================================================== */
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "https://docs.google.com/spreadsheets/d/1NSg2LC9aLFPzVnb_5FbaA6Gs9MRAU_ZOYpzXqsq1s3E/edit?usp=sharing",
 
   pages: {
     masterlist:    "masterlist",
