@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Cognivores",
-  url: "https://cognivores.netlify.app",
+  url: "beebugbee.github.io",
   description: `Cognivores closed species master list, created by beebeebee on Toyhouse.`
 }
 
